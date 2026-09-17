@@ -1,0 +1,64 @@
+{
+    "levels": [
+        {
+            "level": 1,
+            "name": "Newbie",
+            "required_exp": 0,
+            "next_level_exp": 100
+        },
+        {
+            "level": 2,
+            "name": "Squire",
+            "required_exp": 100,
+            "next_level_exp": 110
+        },
+        {
+            "level": 3,
+            "name": "Warrior",
+            "required_exp": 210,
+            "next_level_exp": 121
+        },
+        {
+            "level": 4,
+            "name": "Guardian",
+            "required_exp": 331,
+            "next_level_exp": 133
+        },
+        {
+            "level": 5,
+            "name": "Knight",
+            "required_exp": 464,
+            "next_level_exp": 146
+        },
+        {
+            "level": 6,
+            "name": "Paladin",
+            "required_exp": 610,
+            "next_level_exp": 161
+        },
+        {
+            "level": 7,
+            "name": "Champion",
+            "required_exp": 771,
+            "next_level_exp": 177
+        },
+        {
+            "level": 8,
+            "name": "Warlord",
+            "required_exp": 948,
+            "next_level_exp": 195
+        },
+        {
+            "level": 9,
+            "name": "Legend",
+            "required_exp": 1143,
+            "next_level_exp": 214
+        },
+        {
+            "level": 10,
+            "name": "Master",
+            "required_exp": 1357,
+            "next_level_exp": 0
+        }
+    ]
+}

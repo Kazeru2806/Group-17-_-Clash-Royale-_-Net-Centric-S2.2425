@@ -1,0 +1,46 @@
+{
+    "username": "kaze",
+    "password": "123",
+    "exp": 0,
+    "level": 1,
+    "towers": [
+        {
+            "type": "King Tower",
+            "level": 1
+        },
+        {
+            "type": "Guard Tower",
+            "level": 1
+        },
+        {
+            "type": "Guard Tower",
+            "level": 1
+        }
+    ],
+    "troops": [
+        {
+            "name": "Pawn",
+            "level": 1
+        },
+        {
+            "name": "Bishop",
+            "level": 1
+        },
+        {
+            "name": "Rook",
+            "level": 1
+        },
+        {
+            "name": "Knight",
+            "level": 1
+        },
+        {
+            "name": "Prince",
+            "level": 1
+        },
+        {
+            "name": "Queen",
+            "level": 1
+        }
+    ]
+}

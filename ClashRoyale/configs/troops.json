@@ -1,0 +1,62 @@
+{
+    "pawn": {
+        "name": "Pawn",
+        "hp": 50,
+        "atk": 150,
+        "def": 100,
+        "mana": 3,
+        "exp": 5,
+        "special": "",
+        "has_special": false
+    },
+    "bishop": {
+        "name": "Bishop",
+        "hp": 100,
+        "atk": 200,
+        "def": 150,
+        "mana": 4,
+        "exp": 10,
+        "special": "",
+        "has_special": false
+    },
+    "rook": {
+        "name": "Rook",
+        "hp": 250,
+        "atk": 200,
+        "def": 200,
+        "mana": 5,
+        "exp": 25,
+        "special": "",
+        "has_special": false
+    },
+    "knight": {
+        "name": "Knight",
+        "hp": 200,
+        "atk": 300,
+        "def": 150,
+        "mana": 5,
+        "exp": 25,
+        "special": "",
+        "has_special": false
+    },
+    "prince": {
+        "name": "Prince",
+        "hp": 500,
+        "atk": 400,
+        "def": 300,
+        "mana": 6,
+        "exp": 50,
+        "special": "",
+        "has_special": false
+    },
+    "queen": {
+        "name": "Queen",
+        "hp": 200,
+        "atk": 0,
+        "def": 100,
+        "mana": 5,
+        "exp": 30,
+        "special": "Heals the friendly tower with lowest HP by 300",
+        "has_special": true
+    }
+}

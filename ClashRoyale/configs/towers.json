@@ -1,0 +1,18 @@
+{
+    "king_tower": {
+        "type": "King Tower",
+        "hp": 600,
+        "atk": 200,
+        "def": 100,
+        "crit": 10,
+        "exp": 200
+    },
+    "guard_tower": {
+        "type": "Guard Tower",
+        "hp": 300,
+        "atk": 100,
+        "def": 50,
+        "crit": 5,
+        "exp": 100
+    }
+}
